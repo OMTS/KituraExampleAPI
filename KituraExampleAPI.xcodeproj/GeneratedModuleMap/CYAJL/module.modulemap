@@ -1,0 +1,5 @@
+module CYAJL {
+    umbrella "/Users/florianpygmalion/Desktop/OMTS/SwiftServer/KituraExampleAPI/Packages/CYAJL-0.14.0/Sources/CYAJL/include"
+    link "CYAJL"
+    export *
+}

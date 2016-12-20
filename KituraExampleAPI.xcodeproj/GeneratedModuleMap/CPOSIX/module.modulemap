@@ -1,0 +1,5 @@
+module CPOSIX {
+    umbrella "/Users/florianpygmalion/Desktop/OMTS/SwiftServer/KituraExampleAPI/Packages/CPOSIX-0.14.0/Sources/CPOSIX/include"
+    link "CPOSIX"
+    export *
+}

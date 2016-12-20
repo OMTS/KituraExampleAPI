@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8778A8422B5F2D815471D9DCAD246A0F890CA00F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : 9223372036854775807,
+    "8778A8422B5F2D815471D9DCAD246A0F890CA00F" : 9223372036854775807,
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : 9223372036854775807,
+    "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "81300474-9181-4BC0-AD7D-5CEFE0A9BB3A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : "KituraExampleAPI\/Packages\/CYAJL-0.14.0\/",
+    "8778A8422B5F2D815471D9DCAD246A0F890CA00F" : "KituraExampleAPI\/",
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : "KituraExampleAPI\/Packages\/CPOSIX-0.14.0\/",
+    "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B" : "KituraExampleAPI\/Packages\/SQL-0.14.6\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KituraExampleAPI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KituraExampleAPI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/SQL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DE266EE60EEEBC7266E53F4904DBB0988A2B63B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/OMTS\/KituraExampleAPI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8778A8422B5F2D815471D9DCAD246A0F890CA00F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CYAJL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A159381094DADFEA09ECCD534D4C3E31D0BC01B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Zewo\/CPOSIX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFEF2E1BD93F36E85AC2D560F4E84962820B190D"
+    }
+  ]
+}
